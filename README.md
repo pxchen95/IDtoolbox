@@ -1,7 +1,6 @@
-# IDtoolbox
-MATLAB toolbox for estimating intrinsic dimension of kinematic neural data (although it may be used for other types of data, also).
+### Intrinsic Dimensionality Toolbox
 
-Intrinsic Dimensionality Toolbox (MATLAB)
+MATLAB toolbox for estimating intrinsic dimension (ID). Although this toolbox is intended to estimate the ID of kinematic neural data, it can be used for any type of datasets.
 
 Author: Paula Chen, Division of Applied Mathematics, Brown University
 
